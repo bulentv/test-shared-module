@@ -1,6 +1,19 @@
 {
   "name": "test-shared-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bulentv/test-shared-module.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/bulentv/test-shared-module/issues"
+  },
+  "homepage": "https://github.com/bulentv/test-shared-module#readme",
+  "description": ""
 }
